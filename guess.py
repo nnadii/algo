@@ -1,3 +1,8 @@
+"""
+    Do not run the script within the python intepreter, 
+    just run the command("python guess.py") in a terminal, not in the interpreter.
+"""
+
 import random
 import math
 
